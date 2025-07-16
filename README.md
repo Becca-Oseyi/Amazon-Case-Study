@@ -12,7 +12,6 @@ Ms Excel for data collection, cleaning, manipulation and munching
 
 SQL server for querying and analysis
 
-
 Power BI for creating a report
 
 MS Powerpoint for presentation
