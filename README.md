@@ -1,8 +1,8 @@
 # Data Analysis Project Work
-This project was done by Rebecca Oseyi.
+A data analysis project exploring Amazon product reviews to uncover trends in pricing, ratings, and potential revenue. Built with excel and pivot tables. 
 ## Project Topic: Amazon Case Study
 ### Project Overview: 
-This Data Analysis project aims generate insight into the 
+This project analyses a data set
 
 ### Data Sources
 The primary source of data used here can be free downloaded from an open source online or any repository site.
