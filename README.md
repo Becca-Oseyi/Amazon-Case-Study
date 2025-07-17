@@ -1,6 +1,6 @@
 # Data Analysis Project Work
 A data analysis project exploring Amazon product reviews to uncover trends in pricing, ratings, and potential revenue. Built with excel and pivot tables. 
-## Project Topic: Amazon Case Study
+## Project Topic: Amazon Review Analysis
 ### Project Overview: 
 This project analyses a data set of Amazon products, including categories, ratings and discounts. The goal is to extract insights that can help sellers optimize pricing, and understand customer engagement.
 
